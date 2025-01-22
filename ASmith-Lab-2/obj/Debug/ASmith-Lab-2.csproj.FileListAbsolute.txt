@@ -1,0 +1,14 @@
+C:\Users\princ\source\repos\ASmith-Lab-2\bin\Debug\ASmith-Lab-2.exe.config
+C:\Users\princ\source\repos\ASmith-Lab-2\bin\Debug\ASmith-Lab-2.exe
+C:\Users\princ\source\repos\ASmith-Lab-2\bin\Debug\ASmith-Lab-2.pdb
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith-Lab-2.csproj.AssemblyReference.cache
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith_Lab_2.Form1.resources
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith_Lab_2.Properties.Resources.resources
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith-Lab-2.csproj.GenerateResource.cache
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith-Lab-2.exe
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith-Lab-2.pdb
+C:\Users\princ\source\repos\ASmith-Lab-2\bin\Debug\PopulationDB.mdf
+C:\Users\princ\source\repos\ASmith-Lab-2\bin\Debug\PopulationDB_log.ldf
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith_Lab_2.CityDetails.resources
+C:\Users\princ\source\repos\ASmith-Lab-2\obj\Debug\ASmith_Lab_2.PopulationDetails.resources
