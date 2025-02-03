@@ -1,0 +1,15 @@
+The overall system works amazing and smooth and I liked your strengths
+  1. Clear UI Design, the layout is functional and easy to navigate.
+  2. Good code structure, it is organized, with separate methods for each functionality.
+  3. Well-Commented Code.
+
+But there are some areas that could be improved:
+  > Reduce Code Duplication, meaning several methods (e.g., message box queries and sorting) have repetitive code.
+    You can use helper methods to make the code more concise.
+
+  > Improved button labeling, more clearer labels (e.g., "Sort Population 1" instead of "Ascending Population") can improve usability.
+  > More optimized sorting logic, Instead of using separate methods for ascending and descending sorting, a single method with a boolean
+    parameter would simplify the logic.
+  > More enhance UI alignments, the buttons could be more evenly spaced and grouped for better organization.
+
+Overall, it's a solid implementation with just a room for minor improvements to enhance efficiency, and user experience.
