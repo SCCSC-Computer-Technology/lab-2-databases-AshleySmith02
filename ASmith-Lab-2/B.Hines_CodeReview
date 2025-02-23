@@ -1,0 +1,6 @@
+Code functions as intended for most parts. Only thing that i found i just couldnt get to work were there asc and desc sort buttons, 
+however you can sort by clicking the top of the row so they could be removed for redundancy. the show details button could be renamed 
+or reworked, i expected upon clicking it to show the details of the currently
+selected city, however it opens up to a seperate form that shows details for all cities and you manually scroll through each.
+That in and of itself is a good way to do it, that way one doesnt have to back out and re click, i think i just expected it to
+show details on what was selected inthe list, maybe id rename the button to show details page? over all though excellent job! =]
